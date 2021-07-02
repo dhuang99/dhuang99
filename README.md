@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome Fellow Humans!
 
-<!--
-**dhuang99/dhuang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/daniel--huang426-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/daniel-huang426)](https://www.linkedin.com/in/daniel-huang426/) 
+[![Gmail Badge](https://img.shields.io/badge/danielhuang99@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:danielhuang99@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-Here are some ideas to get you started:
+I am Daniel Huang and I've just recently graduated from University of Maryland, College Park. I'm a huge fan of automation since I love making things that help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+* [PDF Name Organizer](https://github.com/dhuang99/PDF-Name-Organizer)
+* [Text GUI Tool](https://github.com/dhuang99/Text-GUI-Tool)
+* [User Setup Automation](https://github.com/dhuang99/User-Setup-Automation)
+
+## ⚡ Technologies 
+* Scripting using **Python, Bash, and Powershell**
+* Worked with **Active Directories**
+
+## 🌱 Currently Studying
+* Python GUI (tkinter)
+
