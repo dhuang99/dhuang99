@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/daniel--huang426-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/daniel-huang426)](https://www.linkedin.com/in/daniel-huang426/) 
 [![Gmail Badge](https://img.shields.io/badge/danielhuang99@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:danielhuang99@gmail.com)](mailto:mailharshkhatri@gmail.com)
 
-I am Daniel Huang and I've just recently graduated from University of Maryland, College Park. I'm a huge fan of automation since I love making things that help people.
+I am Daniel Huang and I've just recently graduated from University of Maryland, College Park. I love making things that make people smile.
 
 ## 💻 Projects
 * [PDF Name Organizer](https://github.com/dhuang99/PDF-Name-Organizer)
