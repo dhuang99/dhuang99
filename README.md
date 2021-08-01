@@ -12,7 +12,7 @@ I am Daniel Huang and I've just recently graduated from University of Maryland, 
 
 ## ⚡ Technologies 
 * Scripting using **Python, Bash, and Powershell**
-* Worked with **Active Directories**
+* Worked with **Active Directory**
 
 ## 🌱 Currently Studying
 * Python GUI (tkinter)
