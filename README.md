@@ -9,6 +9,7 @@ I am Daniel Huang and I've just recently graduated from University of Maryland, 
 * [PDF Name Organizer](https://github.com/dhuang99/PDF-Name-Organizer)
 * [Text GUI Tool](https://github.com/dhuang99/Text-GUI-Tool)
 * [User Setup Automation](https://github.com/dhuang99/User-Setup-Automation)
+* [Portfolio](https://github.com/dhuang99/Portfolio)
 
 ## ⚡ Technologies 
 * Scripting using **Python, Bash, and Powershell**
