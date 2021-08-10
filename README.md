@@ -1,7 +1,8 @@
 ## Welcome Fellow Humans!
 
 [![Linkedin Badge](https://img.shields.io/badge/daniel--huang426-blue?style=flat&logo=linkedin&link=https://www.linkedin.com/in/daniel-huang426)](https://www.linkedin.com/in/daniel-huang426/) 
-[![Gmail Badge](https://img.shields.io/badge/danielhuang99@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:danielhuang99@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/danielhuang99@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:danielhuang99@gmail.com)](mailto:danielhuang99@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/danielhuang99.com-yellow?style=flat&link=danielhuang99.com)](danielhuang99.com)
 
 I am Daniel Huang and I've just recently graduated from University of Maryland, College Park. I love making things that make people smile.
 
